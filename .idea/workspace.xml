@@ -2,12 +2,373 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702bf1cf-3bd3-496d-9756-c4ba75520f04" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rename_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blood_counting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00242.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00260.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00261.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00266.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00290.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00294.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00322.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00330.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00335.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00359.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00362.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00368.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00370.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00372.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00376.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00378.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00384.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00385.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00389.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00390.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00396.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00409.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BCCD/JPEGImages/BloodImage_00410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rename_img.py" beforeDir="false" afterPath="$PROJECT_DIR$/rename_img.py" afterDir="false" />
     </list>
     <ignored path="scripts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,13 +398,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/read_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="166">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blood_counting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,8 +425,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rename_img.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="68">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -83,9 +456,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/visualize.py" />
-        <option value="$PROJECT_DIR$/rename_img.py" />
         <option value="$PROJECT_DIR$/rename_xml.py" />
         <option value="$PROJECT_DIR$/read_csv.py" />
+        <option value="$PROJECT_DIR$/rename_img.py" />
+        <option value="$PROJECT_DIR$/blood_counting.py" />
       </list>
     </option>
   </component>
@@ -145,7 +519,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_csv">
+  <component name="RunManager" selected="Python.blood_counting">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,6 +538,27 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
+    </configuration>
+    <configuration name="blood_counting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blood_counting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="read_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scripts" />
@@ -254,12 +649,14 @@
       <item itemvalue="Python.read_csv" />
       <item itemvalue="Python.rename_img" />
       <item itemvalue="Python.rename_xml" />
+      <item itemvalue="Python.blood_counting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.blood_counting" />
+        <item itemvalue="Python.rename_img" />
         <item itemvalue="Python.read_csv" />
         <item itemvalue="Python.rename_xml" />
-        <item itemvalue="Python.rename_img" />
         <item itemvalue="Python.visualize" />
       </list>
     </recent_temporary>
@@ -279,14 +676,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31409168" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41595924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,13 +708,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rename_img.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/visualize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -329,6 +718,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rename_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rename_xml.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -336,12 +742,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/read_csv.py">
+    <entry file="file://$PROJECT_DIR$/blood_counting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="204">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

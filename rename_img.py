@@ -1,6 +1,6 @@
 import os
 
-path_img = "../BCCD/JPEGImages/"
+path_img = "BCCD/JPEGImages/"
 for fn in os.listdir(path_img):
     if len(fn)>16:
         print(fn, fn[11:16])
