@@ -1,0 +1,23 @@
+keep_dims is deprecated, use keepdims instead
+loading weights from resnet50_weights_tf_dim_ordering_tf_kernels.h5
+Could not load pretrained model weights. Weights can be found in the keras application folder 		https://github.com/fchollet/keras/tree/master/keras/applications
+WARNING:tensorflow:From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1046: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Starting training
+Epoch 1/2000
+2019-03-14 10:59:04.894820: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+1000/1000 [==============================] - 15161s - rpn_cls: 0.2607 - rpn_regr: 0.1201 - detector_cls: 0.6482 - detector_regr: 0.3247  
+Mean number of bounding boxes from RPN overlapping ground truth boxes: 81.859
+Classifier accuracy for bounding boxes from RPN: 0.706
+Loss RPN classifier: 0.18470241232961415
+Loss RPN regression: 0.11452957129850984
+Loss Detector classifier: 0.5674826929867267
+Loss Detector regression: 0.28835999485850333
+Elapsed time: 15161.717487812042
+Total loss decreased from inf to 1.155074671473354, saving weights
+Epoch 2/2000
+Average number of overlapping bounding boxes from RPN = 81.859 for 1000 previous iterations

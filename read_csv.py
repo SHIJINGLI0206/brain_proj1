@@ -5,7 +5,7 @@ import pandas as pd
 
 
 
-df =  pd.DataFrame(columns=['Image_names','cell_type','xmin','xmax','ymin','ymax'])
+df =  pd.DataFrame(columns=['image_names','cell_type','xmin','xmax','ymin','ymax'])
 path_xml = "BCCD/Annotations/"
 for fn in os.listdir(path_xml):
     print(fn)
@@ -20,15 +20,17 @@ for fn in os.listdir(path_xml):
         ymin = bndbox.find('ymin').text
         ymax = bndbox.find('ymax').text
         print(name_f,name_cell,xmin,ymin,xmax,ymax)
-        df = df.append({'Image_names'    : name_f ,
-                   'cell_type'      : name_cell,
-                   'xmin'           : xmin,
-                   'xmax'           : xmax,
-                   'ymin'           : ymin,
-                   'ymax'           : ymax
-                   },ignore_index=True)
+        n = int(name_f.replace(".jpg",""))
+        if n < 11:
+            df = df.append({'image_names'    : name_f ,
+                       'cell_type'      : name_cell,
+                       'xmin'           : xmin,
+                       'xmax'           : xmax,
+                       'ymin'           : ymin,
+                       'ymax'           : ymax
+                       },ignore_index=True)
 
-df.to_csv('blood_cell.csv')
+df.to_csv('train.csv')
 print('done!')
 
 
